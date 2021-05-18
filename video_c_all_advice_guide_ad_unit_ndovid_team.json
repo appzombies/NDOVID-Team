@@ -1,8 +1,8 @@
 {
-    "fb_banner": "207188011105461_223719819452280",
-    "fb_interstitial": "207188011105461_223718982785697",
+    "fb_banner": "998161790630695_1184430392003833",
+    "fb_interstitial": "998161790630695_1184430505337155",
     "fb_native": "207188011105461_223718836119045",
-    "fb_mid_rect": "207188011105461_223719666118962",
+    "fb_mid_rect": "998161790630695_1184430685337137",
      "admob_pub_id": "pub-5550228870034651",
     "admob_app_id": "ca-app-pub-5550228870034651~2449486985",
     "admob_banner": "ca-app-pub-5550228870034651/6508151494",
@@ -11,7 +11,7 @@
     "admob_app_open": "",
     "is_rand": false,
     "is_admob_banner_only": true,
-    "ad_type": "1",
+    "ad_type": "0",
     "new_pkg": "com.onething.videocall",
     "is_version": "false"
 }
